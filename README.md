@@ -4,20 +4,20 @@
 
 </b>Unidades Curriculares:</b>
  Concluídas
-   - [x] Comunicação e redação técnica;
-   - [x] Informática aplicada;
-   - [x] Fundamentos da tecnologia;
+   - [x] Comunicação e Redação Técnica;
+   - [x] Informática Aplicada;
+   - [x] Fundamentos da Tecnologia;
    - [x] Lógica de Programação;
-   - [x] Projeto de inovação: Processo criativo.
+   - [x] Projeto de Inovação: Processo Criativo.
   
 </b>Em andamento:</b>
-- [ ] Interface web;
-- [ ] Programação client-side;
+- [ ] Interface Web;
+- [ ] Programação Client-Side;
 - [ ] Teste de Front end;
-- [ ] Projeto de inovação: Modelagem de projetos;
-- [ ] Bancos de dados;
-- [ ] Desenvolvimento de sistemas web;
+- [ ] Projeto de Inovação: Modelagem de Projetos;
+- [ ] Bancos de Dados;
+- [ ] Desenvolvimento de Sistemas Web;
 - [ ] Teste de back-end;
-- [ ] Implantação de sistema web;
-- [ ] Projeto de inovação: Mindset empreendedor e prototipação;
-- [ ] Projeto de inovação: Trabalho de conclusão de curso.
+- [ ] Implantação de Sistema Web;
+- [ ] Projeto de inovação: Mindset Empreendedor e Prototipação;
+- [ ] Projeto de inovação: Trabalho de Conclusão de Curso.
