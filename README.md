@@ -1,6 +1,6 @@
 ### Olá 👋
 
-<b>Aluna de </b> Informática no <b>SENAI - [ Serviço Nacional de Aprendizagem Industrial ] </b>
+<b>Aluna </b> de Informática para Internet no <b>SENAI - [ Serviço Nacional de Aprendizagem Industrial ] </b>
 
 </b>Unidades Curriculares:</b>
  Concluídas
