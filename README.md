@@ -20,4 +20,4 @@
 - [ ] Teste de back-end;
 - [ ] Implantação de sistema web;
 - [ ] Projeto de inovação: Mindset empreendedor e prototipação;
-- [ ] Projeto de inovação: Trabalho de conclução de curso.
+- [ ] Projeto de inovação: Trabalho de conclusão de curso.
